@@ -1,0 +1,8 @@
+numpy
+Cython
+pandas>=1.1.5
+xarray
+netcdf4
+pyyaml
+toolz
+joblib
